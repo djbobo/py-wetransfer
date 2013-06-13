@@ -7,6 +7,7 @@ Usage
 =====
 
 You should have a we transfer address similar to https://www.wetransfer.com/downloads/XXXXXXXXXX/YYYYYYYYY/ZZZZZZZZ
+If your link is shorter https://www.wetransfer.com/downloads/XXXXXXXXXX/YYYYYYYYY you just need to add a / between X and Y
 
 So execute:
 
